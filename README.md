@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![View Live Preview](https://startbootstrap.com/assets/img/screenshots/themes/coming-soon.png)](https://blackrockdigital.github.io/startbootstrap-coming-soon/)
+[![View Live Preview](img/preview.jpg)](https://blackrockdigital.github.io/startbootstrap-coming-soon/)
 
 ## Download and Installation
 
